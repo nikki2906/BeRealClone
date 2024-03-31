@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 
 [Video Walk Through](https://imgur.com/a/dIjgdD8)
-GIF created with Kap  
+
 
 ## Notes
 
