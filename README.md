@@ -1,7 +1,5 @@
 # Project 6 - Be Real 
 
-Submitted by: Nhi Huynh
-
 Be Real is an app that allows users post a photo of what they’re currently doing upon receiving a random notification during the day. Only after posting a photo can the user see their friends’ photos.
 
 
